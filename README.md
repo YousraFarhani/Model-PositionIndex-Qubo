@@ -1,1 +1,1 @@
-# ModelIndexQubo
+# ModelPositionIndexQubo
